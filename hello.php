@@ -10,7 +10,6 @@ if (!isset($_SESSION['username'])) {
 // Get the user's name from the session
 $name = $_SESSION['name'];
 $username = $_SESSION['username'];
-$email = $_SESSION['email'];
 ?>
 
 <!DOCTYPE html>
